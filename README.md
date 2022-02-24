@@ -14,3 +14,5 @@ SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse g
 
 
 ![SOLID](https://user-images.githubusercontent.com/14266075/155244338-f16bf21b-5609-4777-bb45-8319537d540a.png)
+
+<h1 align="center"> O QUE APRENDI </h1>
