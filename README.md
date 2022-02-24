@@ -15,6 +15,8 @@ SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse g
 
 ![SOLID](https://user-images.githubusercontent.com/14266075/155244338-f16bf21b-5609-4777-bb45-8319537d540a.png)
 
+<h1 align="center"> O QUE APRENDI </h1>
+
 Pelo que entendi, o SOLID são orientações e principios para facilitar o entendimento do código e sua manutenção. A estrutura passada nas aulas não é uma "regra" absoluta do SOLID, mas sim, uma possibilidade de aplicar os principios. Você pode criar sua estrutura se achar melhor, mas ao seguir uma já existente não estará reinventando a roda, e tendo uma "estrutura" padrão o time de desenvolvimento rapidamente conseguirá entender o sistema.
 No caso eu entendi a estrutura desta maneira:
 rotas - têm a responsabilidade de receber os requests, repassá-los para as outras camadas e retornar um response
