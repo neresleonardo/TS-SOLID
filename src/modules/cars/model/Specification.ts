@@ -1,6 +1,6 @@
 import { v4 as uuidV4 } from 'uuid' // Subescrevendo
 
-class Specifcation {
+class Specification {
 
     id?: string; // Opicional 
 
@@ -20,4 +20,4 @@ class Specifcation {
     }
 }
 
-export { Specifcation };
+export { Specification };
