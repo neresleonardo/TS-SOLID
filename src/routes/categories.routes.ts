@@ -27,6 +27,7 @@ categoriesRoutes.get("/", (request, response) => {
 specificationRoutes.post("/specification", (request, response) => {
     const { name, description } = request.body;
 
+
     
 })
 

@@ -1,7 +1,7 @@
 import { Specification } from "../model/Specification";
 import { ISpecificationsRepository, ICreateSpeficationDTO } from "./ISpecificationsRepository";
 
-class SpeficationsRepository implements ISpecificationsRepository {
+class SpecificationsRepository implements ISpecificationsRepository {
     // Tabela Fake
     private specifications: Specification[];
 
@@ -29,4 +29,4 @@ class SpeficationsRepository implements ISpecificationsRepository {
     }
 }
 
-export { SpeficationsRepository }
+export { SpecificationsRepository }
