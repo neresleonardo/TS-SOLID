@@ -1,5 +1,5 @@
-import { Specification } from "../model/Specification";
-import { ISpecificationsRepository, ICreateSpeficationDTO } from "./ISpecificationsRepository";
+import { Specification } from "../../model/Specification";
+import { ISpecificationsRepository, ICreateSpeficationDTO } from "../ISpecificationsRepository";
 
 class SpecificationsRepository implements ISpecificationsRepository {
     // Tabela Fake
